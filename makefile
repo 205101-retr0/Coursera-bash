@@ -1,4 +1,6 @@
-echo "Project Title: GuessingGame\n" > README.md
+#!/usr/bin/env bash
+
+echo "Project Title: GuessingGame" > README.md
 echo "Date Made: " >> README.md
 date >> README.md
 echo "Number of Lines: " >> README.md
